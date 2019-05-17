@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "837970850929",
+    "firebase_url": "https://aulasdeandroid-6180d.firebaseio.com",
+    "project_id": "aulasdeandroid-6180d",
+    "storage_bucket": "aulasdeandroid-6180d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837970850929:android:28be138ce73b2226",
+        "android_client_info": {
+          "package_name": "aulasandroid.ds.etec.zl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837970850929-i4pudhbsv4m87qvb9kapdsp7i025smu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aulasandroid.ds.etec.zl",
+            "certificate_hash": "f1597f572188b0fb43dd37ef49e962d31afe86dd"
+          }
+        },
+        {
+          "client_id": "837970850929-p5ech3d9mdi5ka9n9udd6232uvkr450t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1oZeC2bqm_m6ZarSsKS-XnhU7F6pCEAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837970850929-p5ech3d9mdi5ka9n9udd6232uvkr450t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
