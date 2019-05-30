@@ -100,7 +100,7 @@
             android:layout_height="wrap_content"
             android:textAlignment="center"
             android:layout_gravity="center"
-            android:text="lbEmailValidoSera"
+            android:text="Validação Email"
             tools:text="nao sei se o email e valido" />
         <Button
             android:text="Alterar senha"
