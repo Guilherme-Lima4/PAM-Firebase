@@ -1,6 +1,6 @@
 package com.example.aluno.nuvem
 
-import android.support.v7.app.AppCompatActivity
+import  android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.view.View
@@ -52,27 +52,27 @@ class MainActivity : AppCompatActivity() {
         this.btnAlteraSenha = findViewById<Button>(R.id.btnAlteraSenha)
 
         this.btnSignUp.setOnClickListener(View.OnClickListener {
-            toast("this.btnSignUp.setOnClickListener(View.OnClickListener {...")
+            toast("Cadastrando...")
             this.signUp()
         })
 
         this.btnLogoff.setOnClickListener(View.OnClickListener {
-            toast("this.btnLogoff.setOnClickListener(View.OnClickListener {...")
+            toast("Trocando de usuário...")
             this.logoff()
         })
 
         this.btnLogin.setOnClickListener(View.OnClickListener {
-            toast("this.btnLogin.setOnClickListener(View.OnClickListener {...")
+            toast("Logando...")
             this.login();
         })
 
         this.btnVerifyEmailUser.setOnClickListener(View.OnClickListener {
-            toast("this.btnVerifyEmailUser.setOnClickListener(View.OnClickListener {...")
+            toast("Verificando email...")
             this.verifyEmailUser();
         })
 
         this.btnAlteraSenha.setOnClickListener(View.OnClickListener {
-            toast("this.btnAlteraSenha.setOnClickListener(View.OnClickListener {...")
+            toast("Alterando senha...")
             this.alteraSenha();
         })
 
